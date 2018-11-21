@@ -1,0 +1,43 @@
+# Backup files
+*.bak
+
+# Eclipse
+.classpath
+.project
+.metadata/
+.externalToolBuilders/
+.settings/
+bin/
+RemoteSystemsTempFiles
+
+# Earth
+src/main/resources/execution.traits
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Maven
+target/
+
+# TestNG
+test-output/
+
+# Vim
+[._]*.sw[a-p]
+[._]*.s[a-v][a-z]
+*~
+
+# Java
+doc/
+out/
+
+# GEdit
+*.*~
+
+# Gradle
+.gradle/
+build/
+gradle-app.setting
